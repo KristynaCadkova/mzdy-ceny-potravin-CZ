@@ -1,0 +1,590 @@
+"year","avg_gross_salary","currency","branch","type_of_food_item","avg_price","price_value","price_unit"
+2006.0,,,,Banány žluté,27.30520000000001,1.0,kg
+2006.0,,,,Cukr krystalový,21.7262,1.0,kg
+2006.0,,,,Eidamská cihla,110.9464,1.0,kg
+2006.0,,,,Hovězí maso zadní bez kosti,166.3384,1.0,kg
+2006.0,,,,Chléb konzumní kmínový,16.123399999999997,1.0,kg
+2006.0,,,,Jablka konzumní,30.714800000000004,1.0,kg
+2006.0,,,,Jogurt bílý netučný,5.829,150.0,g
+2006.0,,,,Kapr živý,69.35000000000001,1.0,kg
+2006.0,,,,Konzumní brambory,12.075400000000002,1.0,kg
+2006.0,,,,Kuřata kuchaná celá,47.47420000000001,1.0,kg
+2006.0,,,,Máslo,104.38780000000001,1.0,kg
+2006.0,,,,Mléko polotučné pasterované,14.437999999999997,1.0,l
+2006.0,,,,Mrkev,14.409800000000002,1.0,kg
+2006.0,,,,Papriky,35.310200000000016,1.0,kg
+2006.0,,,,Pečivo pšeničné bílé,38.596799999999995,1.0,kg
+2006.0,,,,"Pivo výčepní, světlé, lahvové",8.4488,0.5,l
+2006.0,,,,Pomeranče,24.73379999999999,1.0,kg
+2006.0,,,,Přírodní minerální voda uhličitá,7.687799999999998,1.0,l
+2006.0,,,,Pšeničná mouka hladká,7.4072,1.0,kg
+2006.0,,,,Rajská jablka červená kulatá,57.829800000000006,1.0,kg
+2006.0,,,,Rostlinný roztíratelný tuk,69.45240000000001,1.0,kg
+2006.0,,,,Rýže loupaná dlouhozrnná,21.289,1.0,kg
+2006.0,,,,Šunkový salám,116.77419999999995,1.0,kg
+2006.0,,,,Těstoviny vaječné,26.095599999999994,1.0,kg
+2006.0,,,,Vejce slepičí čerstvá,23.493999999999996,10.0,ks
+2006.0,,,,Vepřová pečeně s kostí,105.17739999999998,1.0,kg
+2006.0,34942.000000000000,Kč,Informační a komunikační činnosti,,,,
+2006.0,22852.750000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2006.0,17507.250000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2006.0,39353.250000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2006.0,18240.750000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2006.0,14421.000000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2006.0,24017.500000000000,Kč,Těžba a dobývání,,,,
+2006.0,18993.750000000000,Kč,Doprava a skladování,,,,
+2006.0,17973.500000000000,Kč,Zdravotní a sociální péče,,,,
+2006.0,23105.750000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2006.0,18276.750000000000,Kč,Zpracovatelský průmysl,,,,
+2006.0,28477.000000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2006.0,11105.7500000000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2006.0,13414.000000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2006.0,17643.750000000000,Kč,Stavebnictví,,,,
+2006.0,15477.500000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2006.0,14955.000000000000,Kč,Ostatní činnosti,,,,
+2006.0,17550.750000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2006.0,18197.250000000000,Kč,Vzdělávání,,,,
+2007.0,,,,Banány žluté,30.847708333333326,1.0,kg
+2007.0,,,,Cukr krystalový,21.921458333333334,1.0,kg
+2007.0,,,,Eidamská cihla,122.67958333333335,1.0,kg
+2007.0,,,,Hovězí maso zadní bez kosti,169.45875,1.0,kg
+2007.0,,,,Chléb konzumní kmínový,18.846458333333338,1.0,kg
+2007.0,,,,Jablka konzumní,28.486875,1.0,kg
+2007.0,,,,Jogurt bílý netučný,5.876041666666666,150.0,g
+2007.0,,,,Kapr živý,78.98333333333333,1.0,kg
+2007.0,,,,Konzumní brambory,14.102708333333334,1.0,kg
+2007.0,,,,Kuřata kuchaná celá,53.609791666666666,1.0,kg
+2007.0,,,,Máslo,115.78458333333334,1.0,kg
+2007.0,,,,Mléko polotučné pasterované,15.591875000000002,1.0,l
+2007.0,,,,Mrkev,14.177500000000004,1.0,kg
+2007.0,,,,Papriky,68.78875000000001,1.0,kg
+2007.0,,,,Pečivo pšeničné bílé,44.04354166666667,1.0,kg
+2007.0,,,,"Pivo výčepní, světlé, lahvové",8.509374999999999,0.5,l
+2007.0,,,,Pomeranče,30.23104166666668,1.0,kg
+2007.0,,,,Přírodní minerální voda uhličitá,7.727083333333334,1.0,l
+2007.0,,,,Pšeničná mouka hladká,9.084166666666665,1.0,kg
+2007.0,,,,Rajská jablka červená kulatá,40.318749999999994,1.0,kg
+2007.0,,,,Rostlinný roztíratelný tuk,69.503125,1.0,kg
+2007.0,,,,Rýže loupaná dlouhozrnná,23.855416666666667,1.0,kg
+2007.0,,,,Šunkový salám,116.43916666666667,1.0,kg
+2007.0,,,,Těstoviny vaječné,26.712708333333335,1.0,kg
+2007.0,,,,Vejce slepičí čerstvá,24.970208333333336,10.0,ks
+2007.0,,,,Vepřová pečeně s kostí,102.89479166666665,1.0,kg
+2007.0,37204.000000000000,Kč,Informační a komunikační činnosti,,,,
+2007.0,15761.250000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2007.0,19292.000000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2007.0,14117.000000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2007.0,20394.000000000000,Kč,Doprava a skladování,,,,
+2007.0,19053.500000000000,Kč,Zdravotní a sociální péče,,,,
+2007.0,25675.750000000000,Kč,Těžba a dobývání,,,,
+2007.0,19633.250000000000,Kč,Zpracovatelský průmysl,,,,
+2007.0,19037.500000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2007.0,11738.5000000000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2007.0,30679.250000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2007.0,19321.000000000000,Kč,Vzdělávání,,,,
+2007.0,18994.500000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2007.0,16473.000000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2007.0,18831.250000000000,Kč,Stavebnictví,,,,
+2007.0,24590.250000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2007.0,15929.250000000000,Kč,Ostatní činnosti,,,,
+2007.0,40725.250000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2007.0,25317.000000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2008.0,,,,Banány žluté,30.586304347826086,1.0,kg
+2008.0,,,,Cukr krystalový,21.096739130434777,1.0,kg
+2008.0,,,,Eidamská cihla,135.27934782608693,1.0,kg
+2008.0,,,,Hovězí maso zadní bez kosti,175.54934782608692,1.0,kg
+2008.0,,,,Chléb konzumní kmínový,22.881739130434788,1.0,kg
+2008.0,,,,Jablka konzumní,33.19,1.0,kg
+2008.0,,,,Jogurt bílý netučný,6.280869565217392,150.0,g
+2008.0,,,,Kapr živý,80.36500000000001,1.0,kg
+2008.0,,,,Konzumní brambory,10.782826086956526,1.0,kg
+2008.0,,,,Kuřata kuchaná celá,60.85521739130434,1.0,kg
+2008.0,,,,Máslo,114.74065217391302,1.0,kg
+2008.0,,,,Mléko polotučné pasterované,17.932391304347824,1.0,l
+2008.0,,,,Mrkev,16.874130434782607,1.0,kg
+2008.0,,,,Papriky,62.298913043478294,1.0,kg
+2008.0,,,,Pečivo pšeničné bílé,54.31239130434783,1.0,kg
+2008.0,,,,"Pivo výčepní, světlé, lahvové",8.96608695652174,0.5,l
+2008.0,,,,Pomeranče,31.288695652173907,1.0,kg
+2008.0,,,,Přírodní minerální voda uhličitá,8.269347826086953,1.0,l
+2008.0,,,,Pšeničná mouka hladká,12.981521739130434,1.0,kg
+2008.0,,,,Rajská jablka červená kulatá,35.576739130434795,1.0,kg
+2008.0,,,,Rostlinný roztíratelný tuk,84.39608695652171,1.0,kg
+2008.0,,,,Rýže loupaná dlouhozrnná,32.69065217391305,1.0,kg
+2008.0,,,,Šunkový salám,118.98108695652172,1.0,kg
+2008.0,,,,Těstoviny vaječné,30.760217391304348,1.0,kg
+2008.0,,,,Vejce slepičí čerstvá,28.124565217391304,10.0,ks
+2008.0,,,,Vepřová pečeně s kostí,106.46108695652174,1.0,kg
+2008.0,29236.000000000000,Kč,Těžba a dobývání,,,,
+2008.0,20692.500000000000,Kč,Stavebnictví,,,,
+2008.0,17384.250000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2008.0,16491.250000000000,Kč,Ostatní činnosti,,,,
+2008.0,19656.250000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2008.0,20097.500000000000,Kč,Vzdělávání,,,,
+2008.0,40861.500000000000,Kč,Informační a komunikační činnosti,,,,
+2008.0,21128.500000000000,Kč,Zpracovatelský průmysl,,,,
+2008.0,11937.5000000000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2008.0,34779.750000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2008.0,14451.250000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2008.0,22008.000000000000,Kč,Doprava a skladování,,,,
+2008.0,20036.750000000000,Kč,Zdravotní a sociální péče,,,,
+2008.0,28658.500000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2008.0,20597.250000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2008.0,25759.000000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2008.0,43974.750000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2008.0,17292.500000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2008.0,20985.250000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2009.0,,,,Banány žluté,30.561666666666667,1.0,kg
+2009.0,,,,Cukr krystalový,19.8125,1.0,kg
+2009.0,,,,Eidamská cihla,111.66624999999999,1.0,kg
+2009.0,,,,Hovězí maso zadní bez kosti,179.0058333333333,1.0,kg
+2009.0,,,,Chléb konzumní kmínový,19.584166666666665,1.0,kg
+2009.0,,,,Jablka konzumní,25.85083333333333,1.0,kg
+2009.0,,,,Jogurt bílý netučný,6.083749999999998,150.0,g
+2009.0,,,,Kapr živý,81.995,1.0,kg
+2009.0,,,,Konzumní brambory,10.22125,1.0,kg
+2009.0,,,,Kuřata kuchaná celá,57.86041666666668,1.0,kg
+2009.0,,,,Máslo,96.09500000000001,1.0,kg
+2009.0,,,,Mléko polotučné pasterované,15.65875,1.0,l
+2009.0,,,,Mrkev,16.564583333333335,1.0,kg
+2009.0,,,,Papriky,51.70333333333334,1.0,kg
+2009.0,,,,Pečivo pšeničné bílé,38.833333333333336,1.0,kg
+2009.0,,,,"Pivo výčepní, světlé, lahvové",9.184166666666668,0.5,l
+2009.0,,,,Pomeranče,29.79083333333334,1.0,kg
+2009.0,,,,Přírodní minerální voda uhličitá,8.213333333333333,1.0,l
+2009.0,,,,Pšeničná mouka hladká,9.969583333333334,1.0,kg
+2009.0,,,,Rajská jablka červená kulatá,34.91708333333332,1.0,kg
+2009.0,,,,Rostlinný roztíratelný tuk,84.41041666666665,1.0,kg
+2009.0,,,,Rýže loupaná dlouhozrnná,36.10166666666666,1.0,kg
+2009.0,,,,Šunkový salám,117.99041666666665,1.0,kg
+2009.0,,,,Těstoviny vaječné,30.975833333333327,1.0,kg
+2009.0,,,,Vejce slepičí čerstvá,26.020833333333332,10.0,ks
+2009.0,,,,Vepřová pečeně s kostí,106.48041666666666,1.0,kg
+2009.0,26555.250000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2009.0,16781.750000000000,Kč,Ostatní činnosti,,,,
+2009.0,15041.000000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2009.0,22688.750000000000,Kč,Doprava a skladování,,,,
+2009.0,42237.750000000000,Kč,Informační a komunikační činnosti,,,,
+2009.0,21360.750000000000,Kč,Vzdělávání,,,,
+2009.0,44708.500000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2009.0,27960.500000000000,Kč,Těžba a dobývání,,,,
+2009.0,18325.500000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2009.0,21813.000000000000,Kč,Stavebnictví,,,,
+2009.0,20577.000000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2009.0,21627.000000000000,Kč,Zdravotní a sociální péče,,,,
+2009.0,17193.000000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2009.0,19919.250000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2009.0,21637.500000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2009.0,21825.250000000000,Kč,Zpracovatelský průmysl,,,,
+2009.0,38206.750000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2009.0,11782.7500000000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2009.0,30284.000000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2010.0,,,,Banány žluté,27.44363636363636,1.0,kg
+2010.0,,,,Cukr krystalový,18.269090909090906,1.0,kg
+2010.0,,,,Eidamská cihla,119.95227272727271,1.0,kg
+2010.0,,,,Hovězí maso zadní bez kosti,176.15318181818182,1.0,kg
+2010.0,,,,Chléb konzumní kmínový,18.391363636363636,1.0,kg
+2010.0,,,,Jablka konzumní,25.276363636363637,1.0,kg
+2010.0,,,,Jogurt bílý netučný,6.257272727272727,150.0,g
+2010.0,,,,Kapr živý,84.38,1.0,kg
+2010.0,,,,Konzumní brambory,13.273636363636365,1.0,kg
+2010.0,,,,Kuřata kuchaná celá,56.90181818181818,1.0,kg
+2010.0,,,,Máslo,118.39227272727271,1.0,kg
+2010.0,,,,Mléko polotučné pasterované,16.03454545454545,1.0,l
+2010.0,,,,Mrkev,15.79,1.0,kg
+2010.0,,,,Papriky,61.495000000000005,1.0,kg
+2010.0,,,,Pečivo pšeničné bílé,33.53545454545454,1.0,kg
+2010.0,,,,"Pivo výčepní, světlé, lahvové",9.890454545454546,0.5,l
+2010.0,,,,Pomeranče,30.617727272727276,1.0,kg
+2010.0,,,,Přírodní minerální voda uhličitá,8.032272727272728,1.0,l
+2010.0,,,,Pšeničná mouka hladká,8.769090909090908,1.0,kg
+2010.0,,,,Rajská jablka červená kulatá,42.20863636363637,1.0,kg
+2010.0,,,,Rostlinný roztíratelný tuk,80.42090909090909,1.0,kg
+2010.0,,,,Rýže loupaná dlouhozrnná,33.92636363636364,1.0,kg
+2010.0,,,,Šunkový salám,116.98363636363638,1.0,kg
+2010.0,,,,Těstoviny vaječné,31.938181818181818,1.0,kg
+2010.0,,,,Vejce slepičí čerstvá,25.14636363636363,10.0,ks
+2010.0,,,,Vepřová pečeně s kostí,100.48272727272729,1.0,kg
+2010.0,15222.000000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2010.0,12644.500000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2010.0,22286.250000000000,Kč,Zdravotní a sociální péče,,,,
+2010.0,30094.750000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2010.0,22680.500000000000,Kč,Zpracovatelský průmysl,,,,
+2010.0,22740.250000000000,Kč,Doprava a skladování,,,,
+2010.0,45339.500000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2010.0,26470.500000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2010.0,21210.500000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2010.0,30203.500000000000,Kč,Těžba a dobývání,,,,
+2010.0,22594.000000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2010.0,18019.500000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2010.0,16803.750000000000,Kč,Ostatní činnosti,,,,
+2010.0,18610.500000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2010.0,21961.750000000000,Kč,Stavebnictví,,,,
+2010.0,20264.750000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2010.0,42807.250000000000,Kč,Informační a komunikační činnosti,,,,
+2010.0,20928.000000000000,Kč,Vzdělávání,,,,
+2010.0,38840.000000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2011.0,,,,Banány žluté,26.967499999999998,1.0,kg
+2011.0,,,,Cukr krystalový,22.450833333333335,1.0,kg
+2011.0,,,,Eidamská cihla,122.38333333333334,1.0,kg
+2011.0,,,,Hovězí maso zadní bez kosti,180.72916666666666,1.0,kg
+2011.0,,,,Chléb konzumní kmínový,21.63083333333333,1.0,kg
+2011.0,,,,Jablka konzumní,29.166666666666668,1.0,kg
+2011.0,,,,Jogurt bílý netučný,6.515000000000001,150.0,g
+2011.0,,,,Kapr živý,86.85,1.0,kg
+2011.0,,,,Konzumní brambory,13.526666666666666,1.0,kg
+2011.0,,,,Kuřata kuchaná celá,58.29499999999999,1.0,kg
+2011.0,,,,Máslo,139.18833333333336,1.0,kg
+2011.0,,,,Mléko polotučné pasterované,17.64666666666667,1.0,l
+2011.0,,,,Mrkev,16.436666666666667,1.0,kg
+2011.0,,,,Papriky,53.28666666666666,1.0,kg
+2011.0,,,,Pečivo pšeničné bílé,43.247499999999995,1.0,kg
+2011.0,,,,"Pivo výčepní, světlé, lahvové",10.0525,0.5,l
+2011.0,,,,Pomeranče,28.063333333333333,1.0,kg
+2011.0,,,,Přírodní minerální voda uhličitá,8.290833333333333,1.0,l
+2011.0,,,,Pšeničná mouka hladká,11.440833333333332,1.0,kg
+2011.0,,,,Rajská jablka červená kulatá,30.30666666666667,1.0,kg
+2011.0,,,,Rostlinný roztíratelný tuk,88.72333333333334,1.0,kg
+2011.0,,,,Rýže loupaná dlouhozrnná,33.336666666666666,1.0,kg
+2011.0,,,,Šunkový salám,115.91083333333334,1.0,kg
+2011.0,,,,Těstoviny vaječné,35.141666666666666,1.0,kg
+2011.0,,,,Vejce slepičí čerstvá,23.21083333333333,10.0,ks
+2011.0,,,,Vepřová pečeně s kostí,100.04083333333331,1.0,kg
+2011.0,23500.500000000000,Kč,Zpracovatelský průmysl,,,,
+2011.0,31445.750000000000,Kč,Těžba a dobývání,,,,
+2011.0,18674.000000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2011.0,22752.500000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2011.0,46568.500000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2011.0,21863.500000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2011.0,25887.250000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2011.0,30475.500000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2011.0,23176.250000000000,Kč,Zdravotní a sociální péče,,,,
+2011.0,22756.250000000000,Kč,Doprava a skladování,,,,
+2011.0,15509.250000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2011.0,12431.2500000000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2011.0,39844.750000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2011.0,44265.250000000000,Kč,Informační a komunikační činnosti,,,,
+2011.0,21502.250000000000,Kč,Vzdělávání,,,,
+2011.0,21083.500000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2011.0,17610.750000000000,Kč,Ostatní činnosti,,,,
+2011.0,18562.000000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2011.0,22494.250000000000,Kč,Stavebnictví,,,,
+2012.0,,,,Banány žluté,31.00166666666667,1.0,kg
+2012.0,,,,Cukr krystalový,24.266666666666666,1.0,kg
+2012.0,,,,Eidamská cihla,128.07916666666668,1.0,kg
+2012.0,,,,Hovězí maso zadní bez kosti,200.8058333333333,1.0,kg
+2012.0,,,,Chléb konzumní kmínový,22.91333333333333,1.0,kg
+2012.0,,,,Jablka konzumní,31.004166666666666,1.0,kg
+2012.0,,,,Jogurt bílý netučný,7.159999999999999,150.0,g
+2012.0,,,,Kapr živý,90.09,1.0,kg
+2012.0,,,,Konzumní brambory,10.560833333333333,1.0,kg
+2012.0,,,,Kuřata kuchaná celá,62.9,1.0,kg
+2012.0,,,,Máslo,137.03333333333333,1.0,kg
+2012.0,,,,Mléko polotučné pasterované,18.80166666666667,1.0,l
+2012.0,,,,Mrkev,17.44333333333333,1.0,kg
+2012.0,,,,Papriky,58.83166666666667,1.0,kg
+2012.0,,,,Pečivo pšeničné bílé,43.66916666666666,1.0,kg
+2012.0,,,,"Pivo výčepní, světlé, lahvové",10.158333333333333,0.5,l
+2012.0,,,,Pomeranče,30.186666666666667,1.0,kg
+2012.0,,,,Přírodní minerální voda uhličitá,8.895833333333332,1.0,l
+2012.0,,,,Pšeničná mouka hladká,11.528333333333334,1.0,kg
+2012.0,,,,Rajská jablka červená kulatá,37.855,1.0,kg
+2012.0,,,,Rostlinný roztíratelný tuk,90.0175,1.0,kg
+2012.0,,,,Rýže loupaná dlouhozrnná,34.04416666666667,1.0,kg
+2012.0,,,,Šunkový salám,121.74666666666666,1.0,kg
+2012.0,,,,Těstoviny vaječné,37.54416666666667,1.0,kg
+2012.0,,,,Vejce slepičí čerstvá,35.92166666666666,10.0,ks
+2012.0,,,,Vepřová pečeně s kostí,109.41666666666667,1.0,kg
+2012.0,45689.500000000000,Kč,Informační a komunikační činnosti,,,,
+2012.0,49706.500000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2012.0,23261.750000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2012.0,19537.000000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2012.0,22571.750000000000,Kč,Stavebnictví,,,,
+2012.0,19550.500000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2012.0,21438.500000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2012.0,32487.000000000000,Kč,Těžba a dobývání,,,,
+2012.0,42107.250000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2012.0,12705.750000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2012.0,22998.500000000000,Kč,Doprava a skladování,,,,
+2012.0,31141.250000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2012.0,17853.000000000000,Kč,Ostatní činnosti,,,,
+2012.0,24221.750000000000,Kč,Zpracovatelský průmysl,,,,
+2012.0,23621.500000000000,Kč,Zdravotní a sociální péče,,,,
+2012.0,15935.000000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2012.0,21912.500000000000,Kč,Vzdělávání,,,,
+2012.0,22441.000000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2012.0,26285.250000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2013.0,,,,Banány žluté,31.789166666666663,1.0,kg
+2013.0,,,,Cukr krystalový,24.155833333333334,1.0,kg
+2013.0,,,,Eidamská cihla,141.96916666666667,1.0,kg
+2013.0,,,,Hovězí maso zadní bez kosti,207.18999999999997,1.0,kg
+2013.0,,,,Chléb konzumní kmínový,23.121666666666666,1.0,kg
+2013.0,,,,Jablka konzumní,34.3025,1.0,kg
+2013.0,,,,Jogurt bílý netučný,7.697500000000001,150.0,g
+2013.0,,,,Kapr živý,88.09,1.0,kg
+2013.0,,,,Konzumní brambory,16.934166666666666,1.0,kg
+2013.0,,,,Kuřata kuchaná celá,69.29583333333333,1.0,kg
+2013.0,,,,Máslo,154.8033333333333,1.0,kg
+2013.0,,,,Mléko polotučné pasterované,19.343333333333334,1.0,l
+2013.0,,,,Mrkev,18.592500000000005,1.0,kg
+2013.0,,,,Papriky,61.85916666666666,1.0,kg
+2013.0,,,,Pečivo pšeničné bílé,41.980000000000004,1.0,kg
+2013.0,,,,"Pivo výčepní, světlé, lahvové",10.549166666666666,0.5,l
+2013.0,,,,Pomeranče,31.36916666666666,1.0,kg
+2013.0,,,,Přírodní minerální voda uhličitá,8.739166666666668,1.0,l
+2013.0,,,,Pšeničná mouka hladká,13.338333333333336,1.0,kg
+2013.0,,,,Rajská jablka červená kulatá,37.100833333333334,1.0,kg
+2013.0,,,,Rostlinný roztíratelný tuk,93.30250000000001,1.0,kg
+2013.0,,,,Rýže loupaná dlouhozrnná,34.72833333333333,1.0,kg
+2013.0,,,,Šunkový salám,126.23833333333333,1.0,kg
+2013.0,,,,Těstoviny vaječné,41.00333333333332,1.0,kg
+2013.0,,,,Vejce slepičí čerstvá,30.486666666666668,10.0,ks
+2013.0,,,,Vepřová pečeně s kostí,115.87416666666667,1.0,kg
+2013.0,23652.000000000000,Kč,Zdravotní a sociální péče,,,,
+2013.0,31685.750000000000,Kč,Těžba a dobývání,,,,
+2013.0,20207.000000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2013.0,23184.250000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2013.0,13115.000000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2013.0,24562.250000000000,Kč,Zpracovatelský průmysl,,,,
+2013.0,22203.750000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2013.0,30274.250000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2013.0,40299.750000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2013.0,26293.500000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2013.0,23127.000000000000,Kč,Doprava a skladování,,,,
+2013.0,17901.500000000000,Kč,Ostatní činnosti,,,,
+2013.0,16026.000000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2013.0,21094.000000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2013.0,22073.750000000000,Kč,Stavebnictví,,,,
+2013.0,45233.500000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2013.0,19293.000000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2013.0,45240.000000000000,Kč,Informační a komunikační činnosti,,,,
+2013.0,22279.750000000000,Kč,Vzdělávání,,,,
+2014.0,,,,Banány žluté,31.649166666666662,1.0,kg
+2014.0,,,,Cukr krystalový,22.025000000000002,1.0,kg
+2014.0,,,,Eidamská cihla,150.60916666666665,1.0,kg
+2014.0,,,,Hovězí maso zadní bez kosti,204.94750000000002,1.0,kg
+2014.0,,,,Chléb konzumní kmínový,23.0,1.0,kg
+2014.0,,,,Jablka konzumní,30.52,1.0,kg
+2014.0,,,,Jogurt bílý netučný,8.4975,150.0,g
+2014.0,,,,Kapr živý,86.37,1.0,kg
+2014.0,,,,Konzumní brambory,13.523333333333332,1.0,kg
+2014.0,,,,Kuřata kuchaná celá,71.765,1.0,kg
+2014.0,,,,Máslo,162.97166666666666,1.0,kg
+2014.0,,,,Mléko polotučné pasterované,20.699166666666667,1.0,l
+2014.0,,,,Mrkev,16.21583333333334,1.0,kg
+2014.0,,,,Papriky,60.54916666666666,1.0,kg
+2014.0,,,,Pečivo pšeničné bílé,40.53666666666666,1.0,kg
+2014.0,,,,"Pivo výčepní, světlé, lahvové",10.632499999999999,0.5,l
+2014.0,,,,Pomeranče,29.682499999999994,1.0,kg
+2014.0,,,,Přírodní minerální voda uhličitá,8.690833333333332,1.0,l
+2014.0,,,,Pšeničná mouka hladká,13.115833333333335,1.0,kg
+2014.0,,,,Rajská jablka červená kulatá,41.16,1.0,kg
+2014.0,,,,Rostlinný roztíratelný tuk,93.04666666666667,1.0,kg
+2014.0,,,,Rýže loupaná dlouhozrnná,35.315000000000005,1.0,kg
+2014.0,,,,Šunkový salám,129.4308333333333,1.0,kg
+2014.0,,,,Těstoviny vaječné,42.54,1.0,kg
+2014.0,,,,Vejce slepičí čerstvá,30.92833333333333,10.0,ks
+2014.0,,,,Vepřová pečeně s kostí,116.37499999999999,1.0,kg
+2014.0,22692.500000000000,Kč,Vzdělávání,,,,
+2014.0,23845.750000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2014.0,22906.750000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2014.0,27104.750000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2014.0,31370.250000000000,Kč,Těžba a dobývání,,,,
+2014.0,18036.500000000000,Kč,Ostatní činnosti,,,,
+2014.0,22605.000000000000,Kč,Stavebnictví,,,,
+2014.0,20118.750000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2014.0,23600.000000000000,Kč,Doprava a skladování,,,,
+2014.0,46999.500000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2014.0,46875.000000000000,Kč,Informační a komunikační činnosti,,,,
+2014.0,24255.750000000000,Kč,Zdravotní a sociální péče,,,,
+2014.0,21811.750000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2014.0,13429.000000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2014.0,31093.750000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2014.0,40951.250000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2014.0,20952.000000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2014.0,25308.250000000000,Kč,Zpracovatelský průmysl,,,,
+2014.0,16191.000000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2015.0,,,,Banány žluté,31.912500000000005,1.0,kg
+2015.0,,,,Cukr krystalový,17.797500000000003,1.0,kg
+2015.0,,,,Eidamská cihla,119.38749999999999,1.0,kg
+2015.0,,,,Hovězí maso zadní bez kosti,203.0866666666667,1.0,kg
+2015.0,,,,Chléb konzumní kmínový,22.444999999999997,1.0,kg
+2015.0,,,,Jablka konzumní,29.86916666666666,1.0,kg
+2015.0,,,,Jakostní víno bílé,92.42416666666666,0.75,l
+2015.0,,,,Jogurt bílý netučný,8.522499999999999,150.0,g
+2015.0,,,,Kapr živý,87.17,1.0,kg
+2015.0,,,,Konzumní brambory,13.342500000000001,1.0,kg
+2015.0,,,,Kuřata kuchaná celá,69.58083333333333,1.0,kg
+2015.0,,,,Máslo,157.03583333333333,1.0,kg
+2015.0,,,,Mléko polotučné pasterované,19.540000000000003,1.0,l
+2015.0,,,,Mrkev,20.835000000000004,1.0,kg
+2015.0,,,,Papriky,63.52000000000001,1.0,kg
+2015.0,,,,Pečivo pšeničné bílé,39.46333333333333,1.0,kg
+2015.0,,,,"Pivo výčepní, světlé, lahvové",10.685,0.5,l
+2015.0,,,,Pomeranče,32.498333333333335,1.0,kg
+2015.0,,,,Přírodní minerální voda uhličitá,8.705,1.0,l
+2015.0,,,,Pšeničná mouka hladká,12.589166666666666,1.0,kg
+2015.0,,,,Rajská jablka červená kulatá,42.76666666666667,1.0,kg
+2015.0,,,,Rostlinný roztíratelný tuk,91.53500000000001,1.0,kg
+2015.0,,,,Rýže loupaná dlouhozrnná,35.93,1.0,kg
+2015.0,,,,Šunkový salám,128.86166666666668,1.0,kg
+2015.0,,,,Těstoviny vaječné,44.423333333333325,1.0,kg
+2015.0,,,,Vejce slepičí čerstvá,31.144166666666667,10.0,ks
+2015.0,,,,Vepřová pečeně s kostí,108.66166666666669,1.0,kg
+2015.0,47833.000000000000,Kč,Informační a komunikační činnosti,,,,
+2015.0,21232.250000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2015.0,26131.750000000000,Kč,Zpracovatelský průmysl,,,,
+2015.0,24367.000000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2015.0,16559.500000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2015.0,23586.250000000000,Kč,Stavebnictví,,,,
+2015.0,20850.500000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2015.0,32029.000000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2015.0,18601.000000000000,Kč,Ostatní činnosti,,,,
+2015.0,31539.500000000000,Kč,Těžba a dobývání,,,,
+2015.0,25352.000000000000,Kč,Zdravotní a sociální péče,,,,
+2015.0,23912.750000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2015.0,23102.750000000000,Kč,Vzdělávání,,,,
+2015.0,28409.250000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2015.0,24369.500000000000,Kč,Doprava a skladování,,,,
+2015.0,22569.000000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2015.0,47077.250000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2015.0,40514.500000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2015.0,14198.000000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2016.0,,,,Banány žluté,31.7225,1.0,kg
+2016.0,,,,Cukr krystalový,17.5875,1.0,kg
+2016.0,,,,Eidamská cihla,110.895,1.0,kg
+2016.0,,,,Hovězí maso zadní bez kosti,206.02083333333334,1.0,kg
+2016.0,,,,Chléb konzumní kmínový,21.771666666666665,1.0,kg
+2016.0,,,,Jablka konzumní,29.942499999999995,1.0,kg
+2016.0,,,,Jakostní víno bílé,94.65416666666665,0.75,l
+2016.0,,,,Jogurt bílý netučný,8.114166666666664,150.0,g
+2016.0,,,,Kapr živý,85.07,1.0,kg
+2016.0,,,,Konzumní brambory,15.214166666666669,1.0,kg
+2016.0,,,,Kuřata kuchaná celá,68.97333333333333,1.0,kg
+2016.0,,,,Máslo,148.34166666666667,1.0,kg
+2016.0,,,,Mléko polotučné pasterované,17.895,1.0,l
+2016.0,,,,Mrkev,18.551666666666666,1.0,kg
+2016.0,,,,Papriky,64.55416666666666,1.0,kg
+2016.0,,,,Pečivo pšeničné bílé,40.84166666666667,1.0,kg
+2016.0,,,,"Pivo výčepní, světlé, lahvové",11.235,0.5,l
+2016.0,,,,Pomeranče,32.59666666666667,1.0,kg
+2016.0,,,,Přírodní minerální voda uhličitá,8.660833333333333,1.0,l
+2016.0,,,,Pšeničná mouka hladká,11.025833333333331,1.0,kg
+2016.0,,,,Rajská jablka červená kulatá,40.57416666666666,1.0,kg
+2016.0,,,,Rostlinný roztíratelný tuk,91.43833333333333,1.0,kg
+2016.0,,,,Rýže loupaná dlouhozrnná,36.524166666666666,1.0,kg
+2016.0,,,,Šunkový salám,130.20666666666665,1.0,kg
+2016.0,,,,Těstoviny vaječné,44.821666666666665,1.0,kg
+2016.0,,,,Vejce slepičí čerstvá,28.651666666666667,10.0,ks
+2016.0,,,,Vepřová pečeně s kostí,109.46333333333332,1.0,kg
+2016.0,25070.250000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2016.0,17537.000000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2016.0,26577.500000000000,Kč,Zdravotní a sociální péče,,,,
+2016.0,33141.750000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2016.0,19149.750000000000,Kč,Ostatní činnosti,,,,
+2016.0,27237.500000000000,Kč,Zpracovatelský průmysl,,,,
+2016.0,25505.750000000000,Kč,Doprava a skladování,,,,
+2016.0,48683.000000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2016.0,30007.500000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2016.0,15042.250000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2016.0,31348.000000000000,Kč,Těžba a dobývání,,,,
+2016.0,40955.500000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2016.0,25007.750000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2016.0,22240.000000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2016.0,23938.500000000000,Kč,Vzdělávání,,,,
+2016.0,49160.750000000000,Kč,Informační a komunikační činnosti,,,,
+2016.0,23635.500000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2016.0,24551.250000000000,Kč,Stavebnictví,,,,
+2016.0,22202.000000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2017.0,,,,Banány žluté,31.075,1.0,kg
+2017.0,,,,Cukr krystalový,19.960833333333333,1.0,kg
+2017.0,,,,Eidamská cihla,142.58166666666668,1.0,kg
+2017.0,,,,Hovězí maso zadní bez kosti,218.27249999999995,1.0,kg
+2017.0,,,,Chléb konzumní kmínový,24.1725,1.0,kg
+2017.0,,,,Jablka konzumní,32.62583333333333,1.0,kg
+2017.0,,,,Jakostní víno bílé,96.69666666666666,0.75,l
+2017.0,,,,Jogurt bílý netučný,8.726666666666668,150.0,g
+2017.0,,,,Kapr živý,87.72,1.0,kg
+2017.0,,,,Konzumní brambory,15.928333333333335,1.0,kg
+2017.0,,,,Kuřata kuchaná celá,68.17833333333333,1.0,kg
+2017.0,,,,Máslo,197.78999999999996,1.0,kg
+2017.0,,,,Mléko polotučné pasterované,19.495,1.0,l
+2017.0,,,,Mrkev,15.032499999999997,1.0,kg
+2017.0,,,,Papriky,62.39833333333334,1.0,kg
+2017.0,,,,Pečivo pšeničné bílé,45.23416666666666,1.0,kg
+2017.0,,,,"Pivo výčepní, světlé, lahvové",11.295833333333334,0.5,l
+2017.0,,,,Pomeranče,36.32,1.0,kg
+2017.0,,,,Přírodní minerální voda uhličitá,8.783333333333333,1.0,l
+2017.0,,,,Pšeničná mouka hladká,11.43,1.0,kg
+2017.0,,,,Rajská jablka červená kulatá,44.69833333333332,1.0,kg
+2017.0,,,,Rostlinný roztíratelný tuk,94.29166666666667,1.0,kg
+2017.0,,,,Rýže loupaná dlouhozrnná,36.303333333333335,1.0,kg
+2017.0,,,,Šunkový salám,142.0291666666667,1.0,kg
+2017.0,,,,Těstoviny vaječné,46.55416666666667,1.0,kg
+2017.0,,,,Vejce slepičí čerstvá,36.33583333333333,10.0,ks
+2017.0,,,,Vepřová pečeně s kostí,118.27333333333333,1.0,kg
+2017.0,26957.500000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2017.0,32442.250000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2017.0,51640.750000000000,Kč,Informační a komunikační činnosti,,,,
+2017.0,18861.000000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2017.0,24199.250000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2017.0,35010.750000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
+2017.0,25703.000000000000,Kč,Stavebnictví,,,,
+2017.0,29321.000000000000,Kč,Zpracovatelský průmysl,,,,
+2017.0,20017.500000000000,Kč,Ostatní činnosti,,,,
+2017.0,43218.750000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2017.0,50524.250000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2017.0,25194.750000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2017.0,27152.250000000000,Kč,Doprava a skladování,,,,
+2017.0,23531.250000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2017.0,26575.750000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2017.0,16889.000000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2017.0,33462.250000000000,Kč,Těžba a dobývání,,,,
+2017.0,25358.500000000000,Kč,Vzdělávání,,,,
+2017.0,28920.000000000000,Kč,Zdravotní a sociální péče,,,,
+2018.0,,,,Banány žluté,29.3225,1.0,kg
+2018.0,,,,Cukr krystalový,15.75,1.0,kg
+2018.0,,,,Eidamská cihla,142.45416666666665,1.0,kg
+2018.0,,,,Hovězí maso zadní bez kosti,223.25833333333335,1.0,kg
+2018.0,,,,Chléb konzumní kmínový,24.23833333333334,1.0,kg
+2018.0,,,,Jablka konzumní,36.17583333333332,1.0,kg
+2018.0,,,,Jakostní víno bílé,100.09749999999998,0.75,l
+2018.0,,,,Jogurt bílý netučný,9.171666666666667,150.0,g
+2018.0,,,,Kapr živý,93.46,1.0,kg
+2018.0,,,,Konzumní brambory,15.08,1.0,kg
+2018.0,,,,Kuřata kuchaná celá,69.30999999999999,1.0,kg
+2018.0,,,,Máslo,207.085,1.0,kg
+2018.0,,,,Mléko polotučné pasterované,19.819166666666664,1.0,l
+2018.0,,,,Mrkev,22.454166666666666,1.0,kg
+2018.0,,,,Papriky,60.468333333333334,1.0,kg
+2018.0,,,,Pečivo pšeničné bílé,43.83583333333334,1.0,kg
+2018.0,,,,"Pivo výčepní, světlé, lahvové",11.810833333333333,0.5,l
+2018.0,,,,Pomeranče,36.49916666666667,1.0,kg
+2018.0,,,,Přírodní minerální voda uhličitá,8.645833333333332,1.0,l
+2018.0,,,,Pšeničná mouka hladká,11.436666666666666,1.0,kg
+2018.0,,,,Rajská jablka červená kulatá,44.48833333333334,1.0,kg
+2018.0,,,,Rostlinný roztíratelný tuk,99.3975,1.0,kg
+2018.0,,,,Rýže loupaná dlouhozrnná,36.17583333333334,1.0,kg
+2018.0,,,,Šunkový salám,144.87749999999997,1.0,kg
+2018.0,,,,Těstoviny vaječné,47.87583333333334,1.0,kg
+2018.0,,,,Vejce slepičí čerstvá,38.39166666666667,10.0,ks
+2018.0,,,,Vepřová pečeně s kostí,116.85333333333335,1.0,kg
+2018.0,26761.750000000000,Kč,"Kulturní, zábavní a rekreační činnosti",,,,
+2018.0,28272.000000000000,Kč,Zásobování vodou; činnosti související s odpady a sanacemi,,,,
+2018.0,18270.250000000000,Kč,"Ubytování, stravování a pohostinství",,,,
+2018.0,25115.250000000000,Kč,"Zemědělství, lesnictví, rybářství",,,,
+2018.0,45982.500000000000,Kč,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",,,,
+2018.0,29135.750000000000,Kč,Doprava a skladování,,,,
+2018.0,28833.750000000000,Kč,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,,,,
+2018.0,31629.500000000000,Kč,Zdravotní a sociální péče,,,,
+2018.0,31646.250000000000,Kč,Zpracovatelský průmysl,,,,
+2018.0,35714.500000000000,Kč,Veřejná správa a obrana; povinné sociální zabezpečení,,,,
+2018.0,27059.500000000000,Kč,Činnosti v oblasti nemovitostí,,,,
+2018.0,20165.500000000000,Kč,Administrativní a podpůrné činnosti,,,,
+2018.0,55474.750000000000,Kč,Informační a komunikační činnosti,,,,
+2018.0,21249.500000000000,Kč,Ostatní činnosti,,,,
+2018.0,53339.500000000000,Kč,Peněžnictví a pojišťovnictví,,,,
+2018.0,28047.500000000000,Kč,Vzdělávání,,,,
+2018.0,27821.750000000000,Kč,Stavebnictví,,,,
+2018.0,35942.750000000000,Kč,Těžba a dobývání,,,,
+2018.0,37162.750000000000,Kč,"Profesní, vědecké a technické činnosti",,,,
