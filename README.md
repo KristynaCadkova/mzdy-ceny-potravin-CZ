@@ -59,3 +59,7 @@ Sloupce:
 - q3_potraviny_s_nizkym_rustem.sql – Identifikace potravin s nejnižším meziročním růstem (CAGR)
 - q4_extremni_rust_cen.sql – Hledání případů, kdy růst cen potravin převyšuje růst mezd o více než 10 %
 - q5_vliv_HDP_na_mzdy_a_ceny.sql – Analýza vlivu HDP na vývoj mezd a cen potravin
+
+**Interpretace výsledků**
+
+- pruvodni dokument.pdf – Podrobné interpretace výsledků
